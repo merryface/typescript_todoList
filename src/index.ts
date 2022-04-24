@@ -45,7 +45,7 @@ function addListItem(task: Task): void {
   saveTasks()
 }
 
-function saveTasks() {
+function saveTasks(): void {
   localStorage.setItem("TASKS", JSON.stringify(tasks))
 }
 

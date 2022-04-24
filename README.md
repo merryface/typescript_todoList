@@ -1,9 +1,12 @@
-# New Project
+# Todo List
+
+A quick app created following a (WebDev Simplified Tutorial)[https://www.youtube.com/watch?v=jBmrduvKl5w], just to brush up some rusty typescript skills.
+
+The todo app uses localstorage to save the state of the list.
+
+The readme is left by default, as a result of boostrapping the project using SnowPack.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
-
-## Available Scripts
-
 ### npm start
 
 Runs the app in the development mode.
