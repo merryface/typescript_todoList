@@ -1,6 +1,6 @@
 # Todo List
 
-A quick app created following a (WebDev Simplified Tutorial)[https://www.youtube.com/watch?v=jBmrduvKl5w], just to brush up some rusty typescript skills.
+A quick app created following a [WebDev Simplified Tutorial](https://www.youtube.com/watch?v=jBmrduvKl5w), just to brush up some rusty typescript skills.
 
 The todo app uses localstorage to save the state of the list.
 
